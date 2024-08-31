@@ -154,7 +154,7 @@ h3 {
   display: none; /* Hide scrollbar for Webkit browsers */
 }
 
-@media (min-width:400px) and (max-width:1246px) {
+@media (min-width:350px) and (max-width:1246px) {
   
   .gallery {
     /* height: 100%; */
@@ -167,10 +167,10 @@ h3 {
   }
 }
 
-@media (min-width:400px) and (max-width:1150px){
+@media (min-width:350px) and (max-width:1150px){
   .header {
     background-color: #3f3047;
-    min-height: 15vw;
+    min-height: 25vw;
     display: flex;
     flex-direction: column;
   
