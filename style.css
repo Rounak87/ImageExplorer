@@ -8,6 +8,7 @@ html, body {
 }
 body {
   font-family: 'DM Serif Text';
+  background-color: #485176
 }
 
 .header {
@@ -108,7 +109,7 @@ h3 {
   flex-wrap: wrap;
   gap: 10px;
   width: 100%;
-  display: none;
+  /* display: none; */
 
 }
 .container img {
@@ -198,6 +199,17 @@ h3 {
     font-weight: 500;
     font-size: 27px;
     cursor: pointer;
+  }
+
+}
+
+@media (min-width:300px) and (max-width:650px){
+
+  .img {
+    position: relative;
+    overflow: hidden;
+    height: 150px;
+    width: 170px;
   }
 
 }
