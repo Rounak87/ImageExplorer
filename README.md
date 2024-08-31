@@ -13,3 +13,4 @@ Error Handling: The application displays a clear and concise message if no image
 
 The codebase adheres to modern JavaScript best practices, utilizing asynchronous functions for data fetching, event-driven architecture for user interactions, and efficient DOM manipulation for updating the UI. This approach ensures a smooth and responsive user experience.
 
+Check out the live site here - https://rounak87.github.io/ImageExplorer/
