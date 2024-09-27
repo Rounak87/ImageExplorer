@@ -208,8 +208,8 @@ h3 {
   .img {
     position: relative;
     overflow: hidden;
-    height: 150px;
-    width: 170px;
+/*     height: 150px;
+    width: 170px; */
     object-fit:contain;
   }
 
